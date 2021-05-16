@@ -1,0 +1,48 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #107dac;
+width: 100%;
+height: 75px;
+}
+header h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+
+}
+
+#form {
+    float: left;
+    width: 300px;
+    border: 1px dotted gray;
+    margin-top: 200px;
+    margin-left: 200px;
+    height: 200px;
+}
+
+#form input , select {
+    width: 200px;
+    display: block;
+    text-align: center;
+}
+
+#first{
+    display: block;
+    margin-top: 20px;
+
+}
+
+table {
+    float: right;
+    margin-top: 200px;
+    margin-right: 100px;
+}
+
+table tr {
+    border: 1px solid white
+}
+
